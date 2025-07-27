@@ -18,7 +18,7 @@ A responsive and beautifully designed login form using **Tailwind CSS**. Feature
 
 ## 📸 Preview
 
-![Screenshot](./assets/login-form-preview.png) <!-- You can replace this with actual file path later -->
+![Screenshot](./assets/form.png) <!-- You can replace this with actual file path later -->
 
 ---
 
